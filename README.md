@@ -62,8 +62,8 @@ Cloud & Data Enthusiast | ALX AWS Cloud Computing Student
 Email: igurupeter@gmail.com
 
 Let’s Connect
-LinkedIn: (insert your profile link)
-GitHub: (insert your GitHub username)
+LinkedIn: www.linkedin.com/in/peter-iguru
+GitHub: IguruPeter
 
 Future Improvements
 
